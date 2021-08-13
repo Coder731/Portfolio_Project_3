@@ -174,7 +174,10 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 - [Emmet — the essential toolkit for web-developers](https://emmet.io/)
 
-### Code Institute Resources
+- [python.org](https://www.python.org/dev/peps/pep-0008/)
+
+### Code Institute Resources .
+
 
 - Assessment Handbook
 

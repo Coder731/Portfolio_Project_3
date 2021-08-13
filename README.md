@@ -41,6 +41,10 @@ The following Document gives the minimum Specification Necessary for this Websit
 ##### Noted Objectives
     - Deploy final version of the Python Essentials application code to a cloud-based platform (github pages deployment) _(NOTE))
 
+### README Template
+
+- [README Template](https://github.com/Code-Institute-Solutions/readme-template)
+
 ## Necessary Elements
     - PEP8 (End)_
     - functionality works as per the critical project objectives (End)_
@@ -130,7 +134,7 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 ### Code Institute Resources
 
-- Marking Scheme [Assessment Handbook](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+PE_PAGP+2021_Q2/courseware/40cd7850a24d454795ec611831b06b77/980b1952a3a64898ab4010759bd0bd6a/)
+- Assessment Handbook
 
 ### Previous Projects Used
 

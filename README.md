@@ -1,35 +1,35 @@
 # Portfolio_Project_3
 
 # Contents
-[Jump to Main Body](#link-contents) <a href="link"></a>
+[Jump to Main Body](#link-contents) <a id="link"></a>
 
 Pre:
 
-## [Documentation](#documentation_link_contents) <a href="documentation_link"></a>
-## [Necessary Elements](#necessary-elements-link-contents) <a href="necessary-elements-link"></a>
-## [Project Choice](#project-choice-link-contents) <a href="project-choice-link"></a>
+## [Documentation](#documentation_link_contents) <a id="documentation_link"></a>
+## [Necessary Elements](#necessary-elements-link-contents) <a id="necessary-elements-link"></a>
+## [Project Choice](#project-choice-link-contents) <a id="project-choice-link"></a>
 
 <br>
 
 Project:
 
-## [Technologies](#link-contents) <a href="link"></a>
-## [Features](#link-contents) <a href="link"></a>
+## [Technologies](#link-contents) <a id="link"></a>
+## [Features](#link-contents) <a id="link"></a>
 
 <br>
 
-## [Development](#link-contents) <a href="link"></a>
+## [Development](#link-contents) <a id="link"></a>
 
 <br>
 
 Post:
 
-## [TESTING](#link-contents) <a href="link"></a>
-## [Validation](#link-contents) <a href="link"></a>
+## [TESTING](#link-contents) <a id="link"></a>
+## [Validation](#link-contents) <a id="link"></a>
 
 <br>
 
-## [References](#link-contents) <a href="link"></a>
+## [References](#link-contents) <a id="link"></a>
 
 <br>
 
@@ -37,18 +37,18 @@ Post:
 ### TEMPORARY README holders to give links to Headings in the Contents and Main Body (for deletion before submission)
 - This section provides holders as scaffolds for quickly building links between Contents and Main Body:
     - Holder to delete (for Contents ("from"/source)):
-        - ## [](#link-contents) <a href="link"></a>
+        - ## [](#link-contents) <a id="link"></a>
 
     - Holder to delete (for Main Body ("to")):
-        - ## [](#link) <a href="link-contents"></a>
+        - ## [](#link) <a id="link-contents"></a>
 
 
-# [Main Body](#link) <a href="link-contents"></a>
+# [Main Body](#link) <a id="link-contents"></a>
 
 
     - Holder to delete (for Main Body ("to")):
-        - ## [](#link) <a href="link-contents"></a>
-## [Documentation](#documentation_link) <a href="documentation_link_contents"></a> (Primary Specifications, and Templates used and Project Choice)
+        - ## [](#link) <a id="link-contents"></a>
+## [Documentation](#documentation_link) <a id="documentation_link_contents"></a> (Primary Specifications, and Templates used and Project Choice)
 ### Specifications
 
 #### Assessment Guide
@@ -74,7 +74,7 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 - [Portfolio_Project_1 README](https://github.com/Coder731/Portfolio_Project_1)
 
-## [Necessary Elements](#necessary-elements-link) <a href="necessary-elements-link-contents"></a>
+## [Necessary Elements](#necessary-elements-link) <a id="necessary-elements-link-contents"></a>
     - PEP8 (End)_
     - functionality works as per the critical project objectives (End)_
     - comments, indent, consistent-meaning-naming-conventions (Process)_
@@ -98,25 +98,25 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 
 
-## [Project Choice](#project-choice-link) <a href="project-choice-link-contents></a>
+## [Project Choice](#project-choice-link) <a id="project-choice-link-contents></a>
 ### Analyse Results from a Survey
 
-## [Technologies](#technologies-link) <a href="technologies-link-contents></a>
+## [Technologies](#technologies-link) <a id="technologies-link-contents></a>
 
 ### Testing / Validation Technologies
 
 #### First Table of Wireframe Rough Plan Sketch made in using Balsamiq: 
 <table>
     <tr>
-        <td><a href="assets/images/time_line_sketch.png" target="_blank">
+        <td><a id="assets/images/time_line_sketch.png" target="_blank">
             <img src="assets/images/time_line_sketch.png" alt="Computer History Timeline Image Created with Balsamiq" width="200"></a></td>
-        <td><a href="assets/images/pre_and_first_generation.png" target="_blank">
+        <td><a id="assets/images/pre_and_first_generation.png" target="_blank">
             <img src="assets/images/pre_and_first_generation.png" width="200" alt="Tech Event 1 Created Using Balsamiq" width="40"></a></td>
-        <td><a href="assets/images/second_generation.png" target="_blank">
+        <td><a id="assets/images/second_generation.png" target="_blank">
             <img src="assets/images/second_generation.png" alt="Tech Event 2" width="200" style="float: right;"></a></td>
-        <td><a href="assets/images/third_and_fourth_generation.png" target="_blank">
+        <td><a id="assets/images/third_and_fourth_generation.png" target="_blank">
             <img src="assets/images/third_and_fourth_generation.png" alt="Tech Event 3" width="200"></a></td>
-        <td><a href="assets/images/user_survey_form.png" target="_blank">
+        <td><a id="assets/images/user_survey_form.png" target="_blank">
             <img src="assets/images/user_survey_form.png" alt="User Survey Form" width="200"></a></td>
     </tr>
     <tr>
@@ -129,9 +129,9 @@ The following Document gives the minimum Specification Necessary for this Websit
 </table>
 
 
-## [Features](#features-link) <a href="features-link-contents"></a>
+## [Features](#features-link) <a id="features-link-contents"></a>
 
-## [Development](#development-link) <a href="development-link-contents"></a>
+## [Development](#development-link) <a id="development-link-contents"></a>
 
 ### Current Phase: README
 - To do:
@@ -143,11 +143,11 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 ### Following Phase
 
-## [TESTING](#testing-link) <a href="testing-link-contents"></a>
+## [TESTING](#testing-link) <a id="testing-link-contents"></a>
 
-- [jump to TESTING file](#testing-link-contents) <a href="readme-link"></a>
+- [jump to TESTING file](#testing-link-contents) <a id="readme-link"></a>
 
-## [Validation](#validation-link) <a href="validation-link-contents"></a>
+## [Validation](#validation-link) <a id="validation-link-contents"></a>
 
 ### W3C 
 
@@ -169,7 +169,7 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 
 
-## [References](#references-link) <a href="references-link-contents"></a>
+## [References](#references-link) <a id="references-link-contents"></a>
 
 - [Emmet — the essential toolkit for web-developers](https://emmet.io/)
 

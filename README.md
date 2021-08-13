@@ -20,9 +20,15 @@ Project:
 
 ## Development
 
-### Phase
+### Current Phase: README
 - To do:
     - Add links to README Level 2 Headings
+
+### Next Phase
+
+### After Phase: Wireframe
+
+### Following Phase
 
 <br>
 

@@ -7,19 +7,18 @@ Pre:
 
 ## [Documentation](#documentation-link-contents) <a href="link"></a>
 ## [Necessary Elements](#necessary-elements-link-contents)
-## [Technologies](#technologies-link-contents) <a href="link"></a>
 ## [Project Choice](#project-choice-link-contents) <a href="link"></a>
 
 <br>
 
 Project:
 
-## Technologies
-## Features
+## [Technologies](#link-contents) <a href="link"></a>
+## [Features](#link-contents) <a href="link"></a>
 
 <br>
 
-## Development
+## [Development](#link-contents) <a href="link"></a>
 
 ### Current Phase: README
 - To do:
@@ -35,12 +34,12 @@ Project:
 
 Post:
 
-## TESTING
-## Validation
+## [TESTING](#link-contents) <a href="link"></a>
+## [Validation](#link-contents) <a href="link"></a>
 
 <br>
 
-## References
+## [References](#link-contents) <a href="link"></a>
 
 <br>
 
@@ -140,15 +139,15 @@ The following Document gives the minimum Specification Necessary for this Websit
 </table>
 
 
-## Features
+## [Features](#features-link) <a href="features-link-contents"></a>
 
-## Development
+## [Development](#development-link) <a href="development-link-contents"></a>
 
-## TESTING
+## [TESTING](#testing-link) <a href="testing-link-contents"></a>
 
 - [jump to TESTING file](#testing-link-contents) <a href="readme-link"></a>
 
-## Validation
+## [Validation](#validation-link) <a href="validation-link-contents"></a>
 
 ### W3C 
 
@@ -170,7 +169,7 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 
 
-## References
+## [References](#references-link) <a href="references-link-contents"></a>
 
 - [Emmet — the essential toolkit for web-developers](https://emmet.io/)
 

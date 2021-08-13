@@ -5,9 +5,9 @@
 
 Pre:
 
-## [Documentation](#documentation-link-contents) <a href="link"></a>
-## [Necessary Elements](#necessary-elements-link-contents)
-## [Project Choice](#project-choice-link-contents) <a href="link"></a>
+## [Documentation](#documentation-link-contents) <a href="documentation-link"></a>
+## [Necessary Elements](#necessary-elements-link-contents) <a href="necessary-elements-link"></a>
+## [Project Choice](#project-choice-link-contents) <a href="project-choice-link"></a>
 
 <br>
 

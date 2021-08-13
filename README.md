@@ -5,7 +5,7 @@
 
 Pre:
 
-## [Documentation](#documentation-link-contents) <a href="documentation-link"></a>
+## [Documentation](#documentation_link_contents) <a href="documentation_link"></a>
 ## [Necessary Elements](#necessary-elements-link-contents) <a href="necessary-elements-link"></a>
 ## [Project Choice](#project-choice-link-contents) <a href="project-choice-link"></a>
 
@@ -48,7 +48,7 @@ Post:
 
     - Holder to delete (for Main Body ("to")):
         - ## [](#link) <a href="link-contents"></a>
-## [Documentation](#documentation-link) <a href="documentation-link-contents"></a> (Primary Specifications, and Templates used and Project Choice)
+## [Documentation](#documentation_link) <a href="documentation_link_contents"></a> (Primary Specifications, and Templates used and Project Choice)
 ### Specifications
 
 #### Assessment Guide

@@ -20,16 +20,6 @@ Project:
 
 ## [Development](#link-contents) <a href="link"></a>
 
-### Current Phase: README
-- To do:
-    - Add links to README Level 2 Headings
-
-### Next Phase
-
-### After Phase: Wireframe
-
-### Following Phase
-
 <br>
 
 Post:
@@ -142,6 +132,16 @@ The following Document gives the minimum Specification Necessary for this Websit
 ## [Features](#features-link) <a href="features-link-contents"></a>
 
 ## [Development](#development-link) <a href="development-link-contents"></a>
+
+### Current Phase: README
+- To do:
+    - Add links to README Level 2 Headings
+
+### Next Phase
+
+### After Phase: Wireframe
+
+### Following Phase
 
 ## [TESTING](#testing-link) <a href="testing-link-contents"></a>
 

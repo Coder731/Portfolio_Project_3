@@ -166,8 +166,9 @@ The following Document gives the minimum Specification Necessary for this Websit
 #### pep8online
 - [PEP8 online](pep8online.com)
 
-
-
+#### Python / JavaScript
+- [Python on pythontutor.com](http://pythontutor.com/visualize.html#mode=edit)
+- [JavaScript on pythontutor.com](http://www.pythontutor.com/javascript.html#mode=edit)
 
 ## [References](#references-link) <a id="references-link-contents"></a>
 

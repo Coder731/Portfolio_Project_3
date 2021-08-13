@@ -2,11 +2,33 @@
 
 # Contents
 [Jump to Main Body](#link-contents) <a href="link"></a>
+
+Pre:
+
 ## Documentation
 ## Technologies
 ## Project Choice
+
+<br>
+
+Project:
+
+## Technologies
+## Features
+
+<br>
+
+## Development
+
+<br>
+
+Post:
+
 ## TESTING
 ## Validation
+
+<br>
+
 ## References
 
 <br>
@@ -107,6 +129,8 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 
 ## Features
+
+## Development
 
 ## TESTING
 

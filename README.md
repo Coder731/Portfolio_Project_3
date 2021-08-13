@@ -108,7 +108,7 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 ## TESTING
 
-    - [jump to TESTING file](#testing-link-contents) <a href="readme-link"></a>
+- [jump to TESTING file](#testing-link-contents) <a href="readme-link"></a>
 
 ## Validation
 

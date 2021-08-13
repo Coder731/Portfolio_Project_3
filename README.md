@@ -36,7 +36,7 @@ Post:
 ## TEMPORARY
 ### TEMPORARY README holders to give links to Headings in the Contents and Main Body (for deletion before submission)
 - This section provides holders as scaffolds for quickly building links between Contents and Main Body:
-    - Holder to delete (for Contents ("from"/source)):
+    - Holder to delete (for Contents ("from"/source):
         - ## [](#link-contents) <a id="link"></a>
 
     - Holder to delete (for Main Body ("to")):

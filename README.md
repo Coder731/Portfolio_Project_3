@@ -192,4 +192,4 @@ Template for this Section was taken from [Portfolio_Project_1](https://github.co
 
 ### Google Resources Used
 
-- 
+- [Google Sheets](https://www.google.com/sheets/about/)

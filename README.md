@@ -183,7 +183,13 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 - [Code-Institute-Org/python-essentials-template](https://github.com/Code-Institute-Org/python-essentials-template)
 
+- [Code Institute Google Sheets Template used from love-sandwiches Walkthrough Project](https://docs.google.com/spreadsheets/d/1PeSOxAPuFnZlonXcPCMv5msKfiISvuaEJXkcrs-HsVw/edit#gid=1680754323)
+
 ### Previous Projects Used
 
 Template for this Section was taken from [Portfolio_Project_1](https://github.com/Coder731/Portfolio_Project_1)
 - [First Table of Wireframe Rough Plan Sketch made in using Balsamiq: ](https://github.com/Coder731/Portfolio_Project_1#first-table-of-wireframe-rough-plan-sketch-made-in-using-balsamiq)
+
+### Google Resources Used
+
+- 

@@ -181,6 +181,8 @@ The following Document gives the minimum Specification Necessary for this Websit
 
 - Assessment Handbook
 
+- [Code-Institute-Org/python-essentials-template](https://github.com/Code-Institute-Org/python-essentials-template)
+
 ### Previous Projects Used
 
 Template for this Section was taken from [Portfolio_Project_1](https://github.com/Coder731/Portfolio_Project_1)

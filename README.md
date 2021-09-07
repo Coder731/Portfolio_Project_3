@@ -102,7 +102,7 @@ The following Document gives the minimum Specification Necessary for this Websit
 ### Analyse Results from a Survey
 
 ## Wireframe
-- ![](assets/images/)
+- Wireframe ![Wireframe](assets/images/maths.png)
 
 ## [Technologies](#technologies-link) <a id="technologies-link-contents></a>
 

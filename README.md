@@ -196,3 +196,7 @@ Template for this Section was taken from [Portfolio_Project_1](https://github.co
 ### Google Resources Used
 
 - [Google Sheets](https://www.google.com/sheets/about/)
+
+## Other Tutorials Used
+
+- [Python GUI Development With PySimpleGUI](https://youtu.be/-_z2RPAH0Qk?t=148)

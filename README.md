@@ -136,7 +136,7 @@ Make a Simple GUI for teaching Maths
 
 ## [Development](#development-link) <a id="development-link-contents"></a>
 
-### Current Phase: README
+### Planned Current Phase: README
 - To do:
     - Add links to README Level 2 Headings
 
@@ -145,6 +145,9 @@ Make a Simple GUI for teaching Maths
 ### After Phase: Wireframe
 
 ### Following Phase
+
+### Current Phase
+- Installing PySimpleGui
 
 ## [TESTING](#testing-link) <a id="testing-link-contents"></a>
 

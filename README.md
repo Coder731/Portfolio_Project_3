@@ -150,8 +150,11 @@ Make a Simple GUI for teaching Maths
 
 ### Following Phase
 
-### Current Phase
-- Installing PySimpleGui
+### Previous Phase
+- Installed PySimpleGui
+
+## Phase 0
+- [Create Window](https://youtu.be/-_z2RPAH0Qk?t=232)
 
 ## [TESTING](#testing-link) <a id="testing-link-contents"></a>
 

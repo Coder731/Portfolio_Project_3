@@ -143,6 +143,7 @@ Make a Simple GUI for teaching Maths
 ### Next Phase
 
 ### After Phase: Wireframe
+- Made Wireframe using Microsoft PowerPoint
 
 ### Following Phase
 

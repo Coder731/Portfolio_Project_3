@@ -128,6 +128,9 @@ The following Document gives the minimum Specification Necessary for this Websit
     </tr>
 </table>
 
+## Project Choice Revisited
+Project Idea:
+Make a Simple GUI for teaching Maths
 
 ## [Features](#features-link) <a id="features-link-contents"></a>
 

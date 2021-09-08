@@ -163,6 +163,7 @@ Make a Simple GUI for teaching Maths
 - Build Tic Tac Toe Game
     - Make Board
     - [Python for absolute beginners 2019 - TIC TAC TOE project (+Special Appearance!)](https://youtu.be/BHh654_7Cmw?t=1065)
+    - [Building board](https://youtu.be/BHh654_7Cmw?t=427)
 
 ## [TESTING](#testing-link) <a id="testing-link-contents"></a>
 

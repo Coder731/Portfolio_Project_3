@@ -156,6 +156,14 @@ Make a Simple GUI for teaching Maths
 ## Phase 0
 - [Create Window](https://youtu.be/-_z2RPAH0Qk?t=232)
 
+## Phase 1
+- Stop trying to build GUI as outside scope.
+
+## Phase 2 Post Mentor Call 1
+- Build Tic Tac Toe Game
+    - Make Board
+    - [Python for absolute beginners 2019 - TIC TAC TOE project (+Special Appearance!)](https://youtu.be/BHh654_7Cmw?t=1065)
+
 ## [TESTING](#testing-link) <a id="testing-link-contents"></a>
 
 - [jump to TESTING file](#testing-link-contents) <a id="readme-link"></a>
@@ -210,3 +218,4 @@ Template for this Section was taken from [Portfolio_Project_1](https://github.co
 ## Other Tutorials Used
 
 - [Python GUI Development With PySimpleGUI](https://youtu.be/-_z2RPAH0Qk?t=148)
+- [Python for absolute beginners 2019 - TIC TAC TOE project (+Special Appearance!)](https://youtu.be/BHh654_7Cmw?t=1065)

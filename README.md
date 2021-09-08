@@ -220,3 +220,6 @@ Template for this Section was taken from [Portfolio_Project_1](https://github.co
 
 - [Python GUI Development With PySimpleGUI](https://youtu.be/-_z2RPAH0Qk?t=148)
 - [Python for absolute beginners 2019 - TIC TAC TOE project (+Special Appearance!)](https://youtu.be/BHh654_7Cmw?t=1065)
+
+## Stack OverFlow Resources Used
+- Used print f string to display request for user input [Tic tac toe program user input correction needed](https://stackoverflow.com/questions/24973656/tic-tac-toe-program-user-input-correction-needed)

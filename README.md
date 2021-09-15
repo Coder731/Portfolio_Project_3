@@ -206,7 +206,8 @@ Make a Simple GUI for teaching Maths
 - [Code-Institute-Org/python-essentials-template](https://github.com/Code-Institute-Org/python-essentials-template)
 
 - [Code Institute Google Sheets Template used from love-sandwiches Walkthrough Project](https://docs.google.com/spreadsheets/d/1PeSOxAPuFnZlonXcPCMv5msKfiISvuaEJXkcrs-HsVw/edit#gid=1680754323)
-
+    #### Code Institute Internal LMS Notes Used
+    - Taking User Input / Reading Data From a User
 ### Previous Projects Used
 
 Template for this Section was taken from [Portfolio_Project_1](https://github.com/Coder731/Portfolio_Project_1)
